@@ -2,4 +2,4 @@
 
 readme de exemplo
 
-teste
+lembrei do comando: git commit
