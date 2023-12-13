@@ -2,4 +2,4 @@
 
 readme de exemplo
 
-lembrei do moando: git status
+lembrei do comando: git status
